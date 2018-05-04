@@ -5,7 +5,23 @@
 	\item Utilizando la vista anterior crear un reporte que muestre los nombres y departamentos a los cuales
 pertenecen los empleados.
 	\item El departamento 50 requiere acceso a los datos de los empleados. Generar una vista llamada VW\_Dept50, que contenga las columnas ID del Empleado, Apellidos e ID del Departamento de los empleados del departamento 50. Etiquetar las columnas como EmpNo, Empleado y DeptNo. Por razones de seguridad no se debe permitir a los empleados ser reasignados a otros departamentos.
+	\\
+	\\CREATE VIEW VW\_Dept50 AS
+	\\SELECT employee\_id EmpNo, last\_name employee, department\_id DeptNo
+	\\FROM employees
+	\\WHERE department\_id = 50;
+	\\GO
+	\begin{center}
+	\includegraphics[width=5cm]{./Imagenes/ejercicio3-3} 
+	\end{center}
 	\item Probar la vista, tratando de reasignar al empleado Matos al departamento 80.
+	\\
+	\\UPDATE VW\_Dept50
+	\\SET DeptNo = 80;
+	\\GO
+	\begin{center}
+	\includegraphics[width=5cm]{./Imagenes/ejercicio3-4} 
+	\end{center}
 
 	
 
