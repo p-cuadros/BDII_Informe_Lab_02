@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.4.19)  28 APR 2018 12:36
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.4.19)  3 MAY 2018 21:14
 entering extended mode
 **./InformeLaboratorio02.tex
 (InformeLaboratorio02.tex
@@ -618,57 +618,115 @@ LaTeX Info: Redefining \% on input line 1.
 \openout2 = `Secciones/Actividad01.aux'.
 
  (Secciones/Actividad01.tex
-<./Imagenes/imagen0102.jpg, id=11, 264.23718pt x 74.52844pt>
+<./Imagenes/img1.jpg, id=11, 267.24844pt x 54.2025pt>
+File: ./Imagenes/img1.jpg Graphic file (type jpg)
+<use ./Imagenes/img1.jpg>
+Package pdftex.def Info: ./Imagenes/img1.jpg  used on input line 7.
+(pdftex.def)             Requested size: 142.26378pt x 28.85455pt.
+<./Imagenes/imagen0102.jpg, id=12, 264.23718pt x 74.52844pt>
 File: ./Imagenes/imagen0102.jpg Graphic file (type jpg)
 <use ./Imagenes/imagen0102.jpg>
-Package pdftex.def Info: ./Imagenes/imagen0102.jpg  used on input line 8.
+Package pdftex.def Info: ./Imagenes/imagen0102.jpg  used on input line 11.
 (pdftex.def)             Requested size: 142.26378pt x 40.12534pt.
-<./Imagenes/imagen0103.jpg, id=12, 275.52937pt x 37.64063pt>
+<./Imagenes/img2.jpg, id=13, 282.30469pt x 140.77594pt>
+File: ./Imagenes/img2.jpg Graphic file (type jpg)
+<use ./Imagenes/img2.jpg>
+Package pdftex.def Info: ./Imagenes/img2.jpg  used on input line 14.
+(pdftex.def)             Requested size: 142.26378pt x 70.94199pt.
+<./Imagenes/imagen0103.jpg, id=14, 275.52937pt x 37.64063pt>
 File: ./Imagenes/imagen0103.jpg Graphic file (type jpg)
 <use ./Imagenes/imagen0103.jpg>
-Package pdftex.def Info: ./Imagenes/imagen0103.jpg  used on input line 12.
+Package pdftex.def Info: ./Imagenes/imagen0103.jpg  used on input line 18.
 (pdftex.def)             Requested size: 142.26378pt x 19.43538pt.
-<./Imagenes/imagen0105.jpg, id=13, 264.23718pt x 51.19125pt>
+<./Imagenes/img3.jpg, id=15, 328.22626pt x 94.10156pt>
+File: ./Imagenes/img3.jpg Graphic file (type jpg)
+<use ./Imagenes/img3.jpg>
+Package pdftex.def Info: ./Imagenes/img3.jpg  used on input line 21.
+(pdftex.def)             Requested size: 142.26378pt x 40.78738pt.
+<./Imagenes/img4.jpg, id=16, 616.55344pt x 96.36pt>
+File: ./Imagenes/img4.jpg Graphic file (type jpg)
+<use ./Imagenes/img4.jpg>
+Package pdftex.def Info: ./Imagenes/img4.jpg  used on input line 25.
+(pdftex.def)             Requested size: 142.26378pt x 22.2329pt.
+<./Imagenes/imagen0105.jpg, id=17, 264.23718pt x 51.19125pt>
 File: ./Imagenes/imagen0105.jpg Graphic file (type jpg)
 <use ./Imagenes/imagen0105.jpg>
-Package pdftex.def Info: ./Imagenes/imagen0105.jpg  used on input line 17.
+Package pdftex.def Info: ./Imagenes/imagen0105.jpg  used on input line 29.
 (pdftex.def)             Requested size: 142.26378pt x 27.56084pt.
+<./Imagenes/img5.jpg, id=18, 465.99094pt x 108.405pt>
+File: ./Imagenes/img5.jpg Graphic file (type jpg)
+<use ./Imagenes/img5.jpg>
+Package pdftex.def Info: ./Imagenes/img5.jpg  used on input line 32.
+(pdftex.def)             Requested size: 142.26378pt x 33.09407pt.
+<./Imagenes/img6.jpg, id=19, 379.4175pt x 165.61874pt>
+File: ./Imagenes/img6.jpg Graphic file (type jpg)
+<use ./Imagenes/img6.jpg>
+Package pdftex.def Info: ./Imagenes/img6.jpg  used on input line 36.
+(pdftex.def)             Requested size: 142.26378pt x 62.09929pt.
 
 [1
 
- <./Imagenes/imagen0102.jpg> <./Imagenes/imagen0103.jpg> <./Imagenes/imagen0105
-.jpg>]) [2]
+ <./Imagenes/img1.jpg> <./Imagenes/imagen0102.jpg> <./Imagenes/img2.jpg> <./Ima
+genes/imagen0103.jpg> <./Imagenes/img3.jpg> <./Imagenes/img4.jpg> <./Imagenes/i
+magen0105.jpg> <./Imagenes/img5.jpg>]
+<./Imagenes/img7.jpg, id=23, 318.43968pt x 133.24782pt>
+File: ./Imagenes/img7.jpg Graphic file (type jpg)
+<use ./Imagenes/img7.jpg>
+Package pdftex.def Info: ./Imagenes/img7.jpg  used on input line 40.
+(pdftex.def)             Requested size: 142.26378pt x 59.52788pt.
+<./Imagenes/img8.jpg, id=24, 328.97906pt x 135.50626pt>
+File: ./Imagenes/img8.jpg Graphic file (type jpg)
+<use ./Imagenes/img8.jpg>
+Package pdftex.def Info: ./Imagenes/img8.jpg  used on input line 44.
+(pdftex.def)             Requested size: 142.26378pt x 58.59943pt.
+<./Imagenes/img9.jpg, id=25, 403.5075pt x 185.94469pt>
+File: ./Imagenes/img9.jpg Graphic file (type jpg)
+<use ./Imagenes/img9.jpg>
+Package pdftex.def Info: ./Imagenes/img9.jpg  used on input line 48.
+(pdftex.def)             Requested size: 142.26378pt x 65.55827pt.
+<./Imagenes/img10.jpg, id=26, 581.92406pt x 208.52907pt>
+File: ./Imagenes/img10.jpg Graphic file (type jpg)
+<use ./Imagenes/img10.jpg>
+Package pdftex.def Info: ./Imagenes/img10.jpg  used on input line 52.
+(pdftex.def)             Requested size: 142.26378pt x 50.9771pt.
+<./Imagenes/img11.jpg, id=27, 484.05844pt x 180.675pt>
+File: ./Imagenes/img11.jpg Graphic file (type jpg)
+<use ./Imagenes/img11.jpg>
+Package pdftex.def Info: ./Imagenes/img11.jpg  used on input line 56.
+(pdftex.def)             Requested size: 142.26378pt x 53.10016pt.
+ [2 <./Imagenes/img6.jpg> <./Imagenes/img7.jpg> <./Imagenes/img8.jpg> <./Imagen
+es/img9.jpg> <./Imagenes/img10.jpg> <./Imagenes/img11.jpg>]) [3]
 \openout2 = `Secciones/Actividad02.aux'.
 
- (Secciones/Actividad02.tex) [3
+ (Secciones/Actividad02.tex) [4
 
 
 ]
 \openout2 = `Secciones/Actividad03.aux'.
 
- (Secciones/Actividad03.tex)
-[4
+
+(Secciones/Actividad03.tex) [5
 
 
 ] (InformeLaboratorio02.aux
 LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
- (Secciones/Actividad01.aux)
-(Secciones/Actividad02.aux) (Secciones/Actividad03.aux)) ) 
+
+(Secciones/Actividad01.aux) (Secciones/Actividad02.aux)
+(Secciones/Actividad03.aux)) ) 
 Here is how much of TeX's memory you used:
- 3595 strings out of 493305
- 46956 string characters out of 3142756
- 127601 words of memory out of 3000000
- 7061 multiletter control sequences out of 15000+200000
+ 3650 strings out of 493305
+ 48399 string characters out of 3142756
+ 126602 words of memory out of 3000000
+ 7105 multiletter control sequences out of 15000+200000
  5149 words of font info for 19 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  34i,5n,30p,456b,359s stack positions out of 5000i,500n,10000p,200000b,50000s
-<D:/DATA/MiKTeX 2.9/f
-onts/type1/public/amsfonts/cm/cmbx12.pfb><D:/DATA/MiKTeX 2.9/fonts/type1/public
-/amsfonts/cm/cmr12.pfb>
-Output written on InformeLaboratorio02.pdf (6 pages, 111886 bytes).
+<D:/DATA/MiKTeX 2.9/fonts/type1/public/amsfonts/c
+m/cmbx12.pfb><D:/DATA/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb>
+Output written on InformeLaboratorio02.pdf (7 pages, 383866 bytes).
 PDF statistics:
- 33 PDF objects out of 1000 (max. 8388607)
+ 49 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 76 words of extra memory for PDF output out of 10000 (max. 10000000)
 
