@@ -8,7 +8,7 @@
 	\includegraphics[width=5cm]{./Imagenes/imagen0102} 
 	\end{center}
 	\begin{center}
-	\includegraphics[width=5cm]{./Imagenes/img2} 
+	\includegraphics[width=8cm]{./Imagenes/img2} 
 	\end{center}
 	\item Generar una sentencia de inserción de datos que permita añadir los siguientes registros:
 	\\
@@ -16,45 +16,71 @@
 	\\ go
 
 	\begin{center}
-	\includegraphics[width=5cm]{./Imagenes/imagen0103} 
+	\includegraphics[width=8cm]{./Imagenes/imagen0103} 
 	\end{center}
 	\begin{center}
-	\includegraphics[width=5cm]{./Imagenes/img3} 
+	\includegraphics[width=12cm]{./Imagenes/img3} 
 	\end{center}
 	\item Generar un script que permita que mediante utilización de variables de sustitución, la inserción de información en la tabla Mis\_Empleados.
 	\begin{center}
-	\includegraphics[width=5cm]{./Imagenes/img4} 
+	\includegraphics[width=18cm]{./Imagenes/img4} 
 	\end{center}
 	\item Utilizando el script anterior adicionar los siguientes registros.
 	\begin{center}
 	\includegraphics[width=5cm]{./Imagenes/imagen0105} 
 	\end{center}
 	\begin{center}
-	\includegraphics[width=5cm]{./Imagenes/img5} 
+	\includegraphics[width=18cm]{./Imagenes/img5} 
 	\end{center}
 	\item Revisar los cambios hechos a la tabla.
+	\\
+	\\ select * from mis\_empleados
+	\\ go
+	
 	\begin{center}
-	\includegraphics[width=5cm]{./Imagenes/img6} 
+	\includegraphics[width=10cm]{./Imagenes/img6} 
 	\end{center}
 	\item Cambiar el nombre del empleado No 3 a Benjamín.
+	\\
+	\\ update mis\_empleados set nombres='Benjamin' where empleados\_id=3;
+	\\ go
+
 	\begin{center}
-	\includegraphics[width=5cm]{./Imagenes/img7} 
+	\includegraphics[width=10cm]{./Imagenes/img7} 
 	\end{center}
 	\item Elevar el salario a \$ 1,000 a todos los empleados que tengan un salario menor a esa cantidad.
+	\\
+	\\ update mis\_empleados set salario=1000 where salario<1000;
+	\\ go
+
 	\begin{center}
-	\includegraphics[width=5cm]{./Imagenes/img8} 
+	\includegraphics[width=10cm]{./Imagenes/img8} 
 	\end{center}
 	\item Eliminar el registro del empleado María Castro
+	\\
+	\\ delete from mis\_empleados where codigo='mcastro';
+	\\ go
+
 	\begin{center}
-	\includegraphics[width=5cm]{./Imagenes/img9} 
+	\includegraphics[width=10cm]{./Imagenes/img9} 
 	\end{center}
 	\item Revisar los cambios hechos a la tabla.
+	\\
+	\\ select [Begin Time],[RowLog Contents 1],[Transaction Name],Operation 
+	\\from sys.fn\_dblog(NULL,NULL) 
+	\\where AllocUnitName='dbo.mis\_empleados' and Operation IN ('LOP\_DELETE\_ROWS')
+	\\ go
+
 	\begin{center}
-	\includegraphics[width=5cm]{./Imagenes/img10} 
+	\includegraphics[width=10cm]{./Imagenes/img10} 
 	\end{center}
 	\item Confirmar los cambios a la tabla.
+	\\
+	\\ select * from mis\_empleados
+	\\ go
+
 	\begin{center}
-	\includegraphics[width=5cm]{./Imagenes/img11} 
+	\includegraphics[width=10cm]{./Imagenes/img11} 
 	\end{center}
 	\item Adicionar el siguiente registro a la tabla
 	\item Revisar la adición realizada
