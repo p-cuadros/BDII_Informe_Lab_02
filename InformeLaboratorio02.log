@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.4.19)  3 MAY 2018 21:11
-=======
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.4.19)  3 MAY 2018 21:14
->>>>>>> 71f41f3c52064b2c5838b312f1cb811ba8283610
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.4.19)  3 MAY 2018 22:11
 entering extended mode
 **./InformeLaboratorio02.tex
 (InformeLaboratorio02.tex
@@ -514,12 +510,7 @@ Package: multirow 2016/11/25 v2.2 Span multiple rows of a table
 (D:\DATA\tex\latex\tools\enumerate.sty
 Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
 \@enLab=\toks26
-) (InformeLaboratorio02.aux
-LaTeX Info: Redefining \. on input line 6.
-LaTeX Info: Redefining \% on input line 6.
-
-(Secciones/Actividad01.aux) (Secciones/Actividad02.aux)
-(Secciones/Actividad03.aux))
+) (InformeLaboratorio02.aux)
 \openout1 = `InformeLaboratorio02.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
@@ -536,7 +527,8 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
 LaTeX Font Info:    ... okay on input line 18.
 LaTeX Info: Redefining \. on input line 18.
 LaTeX Info: Redefining \% on input line 18.
- (D:\DATA\tex\latex\oberdiek\epstopdf-base.sty
+
+(D:\DATA\tex\latex\oberdiek\epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
 (D:\DATA\tex\latex\oberdiek\grfext.sty
@@ -600,10 +592,7 @@ Package pdftex.def Info: ./Imagenes/logo.jpg  used on input line 38.
 [1
 
 {C:/Users/AEPIS01/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./Imagene
-s/logo.jpg>] (InformeLaboratorio02.toc
-LaTeX Info: Redefining \. on input line 1.
-LaTeX Info: Redefining \% on input line 1.
-)
+s/logo.jpg>] (InformeLaboratorio02.toc)
 \tf@toc=\write3
 \openout3 = `InformeLaboratorio02.toc'.
 
@@ -611,84 +600,80 @@ LaTeX Info: Redefining \% on input line 1.
 \openout2 = `Secciones/Actividad01.aux'.
 
  (Secciones/Actividad01.tex
-<./Imagenes/img1.jpg, id=11, 267.24844pt x 54.2025pt>
-File: ./Imagenes/img1.jpg Graphic file (type jpg)
-<use ./Imagenes/img1.jpg>
-Package pdftex.def Info: ./Imagenes/img1.jpg  used on input line 7.
-(pdftex.def)             Requested size: 142.26378pt x 28.85455pt.
-<./Imagenes/imagen0102.jpg, id=12, 264.23718pt x 74.52844pt>
+<./Imagenes/imagen0102.jpg, id=11, 264.23718pt x 74.52844pt>
 File: ./Imagenes/imagen0102.jpg Graphic file (type jpg)
 <use ./Imagenes/imagen0102.jpg>
-Package pdftex.def Info: ./Imagenes/imagen0102.jpg  used on input line 11.
+Package pdftex.def Info: ./Imagenes/imagen0102.jpg  used on input line 8.
 (pdftex.def)             Requested size: 142.26378pt x 40.12534pt.
-<./Imagenes/img2.jpg, id=13, 282.30469pt x 140.77594pt>
+<./Imagenes/img2.jpg, id=12, 282.30469pt x 140.77594pt>
 File: ./Imagenes/img2.jpg Graphic file (type jpg)
 <use ./Imagenes/img2.jpg>
-Package pdftex.def Info: ./Imagenes/img2.jpg  used on input line 14.
+Package pdftex.def Info: ./Imagenes/img2.jpg  used on input line 11.
 (pdftex.def)             Requested size: 142.26378pt x 70.94199pt.
-<./Imagenes/imagen0103.jpg, id=14, 275.52937pt x 37.64063pt>
+<./Imagenes/imagen0103.jpg, id=13, 275.52937pt x 37.64063pt>
 File: ./Imagenes/imagen0103.jpg Graphic file (type jpg)
 <use ./Imagenes/imagen0103.jpg>
-Package pdftex.def Info: ./Imagenes/imagen0103.jpg  used on input line 18.
+Package pdftex.def Info: ./Imagenes/imagen0103.jpg  used on input line 15.
 (pdftex.def)             Requested size: 142.26378pt x 19.43538pt.
-<./Imagenes/img3.jpg, id=15, 328.22626pt x 94.10156pt>
+<./Imagenes/img3.jpg, id=14, 328.22626pt x 94.10156pt>
 File: ./Imagenes/img3.jpg Graphic file (type jpg)
 <use ./Imagenes/img3.jpg>
-Package pdftex.def Info: ./Imagenes/img3.jpg  used on input line 21.
+Package pdftex.def Info: ./Imagenes/img3.jpg  used on input line 18.
 (pdftex.def)             Requested size: 142.26378pt x 40.78738pt.
-<./Imagenes/img4.jpg, id=16, 616.55344pt x 96.36pt>
+<./Imagenes/img4.jpg, id=15, 616.55344pt x 96.36pt>
 File: ./Imagenes/img4.jpg Graphic file (type jpg)
 <use ./Imagenes/img4.jpg>
-Package pdftex.def Info: ./Imagenes/img4.jpg  used on input line 25.
+Package pdftex.def Info: ./Imagenes/img4.jpg  used on input line 22.
 (pdftex.def)             Requested size: 142.26378pt x 22.2329pt.
-<./Imagenes/imagen0105.jpg, id=17, 264.23718pt x 51.19125pt>
+<./Imagenes/imagen0105.jpg, id=16, 264.23718pt x 51.19125pt>
 File: ./Imagenes/imagen0105.jpg Graphic file (type jpg)
 <use ./Imagenes/imagen0105.jpg>
-Package pdftex.def Info: ./Imagenes/imagen0105.jpg  used on input line 29.
+Package pdftex.def Info: ./Imagenes/imagen0105.jpg  used on input line 26.
 (pdftex.def)             Requested size: 142.26378pt x 27.56084pt.
-<./Imagenes/img5.jpg, id=18, 465.99094pt x 108.405pt>
+<./Imagenes/img5.jpg, id=17, 465.99094pt x 108.405pt>
 File: ./Imagenes/img5.jpg Graphic file (type jpg)
 <use ./Imagenes/img5.jpg>
-Package pdftex.def Info: ./Imagenes/img5.jpg  used on input line 32.
+Package pdftex.def Info: ./Imagenes/img5.jpg  used on input line 29.
 (pdftex.def)             Requested size: 142.26378pt x 33.09407pt.
-<./Imagenes/img6.jpg, id=19, 379.4175pt x 165.61874pt>
+<./Imagenes/img6.jpg, id=18, 379.4175pt x 165.61874pt>
 File: ./Imagenes/img6.jpg Graphic file (type jpg)
 <use ./Imagenes/img6.jpg>
-Package pdftex.def Info: ./Imagenes/img6.jpg  used on input line 36.
+Package pdftex.def Info: ./Imagenes/img6.jpg  used on input line 33.
 (pdftex.def)             Requested size: 142.26378pt x 62.09929pt.
+<./Imagenes/img7.jpg, id=19, 318.43968pt x 133.24782pt>
+File: ./Imagenes/img7.jpg Graphic file (type jpg)
+<use ./Imagenes/img7.jpg>
+Package pdftex.def Info: ./Imagenes/img7.jpg  used on input line 37.
+(pdftex.def)             Requested size: 142.26378pt x 59.52788pt.
 
 [1
 
- <./Imagenes/img1.jpg> <./Imagenes/imagen0102.jpg> <./Imagenes/img2.jpg> <./Ima
-genes/imagen0103.jpg> <./Imagenes/img3.jpg> <./Imagenes/img4.jpg> <./Imagenes/i
-magen0105.jpg> <./Imagenes/img5.jpg>]
-<./Imagenes/img7.jpg, id=23, 318.43968pt x 133.24782pt>
-File: ./Imagenes/img7.jpg Graphic file (type jpg)
-<use ./Imagenes/img7.jpg>
-Package pdftex.def Info: ./Imagenes/img7.jpg  used on input line 40.
-(pdftex.def)             Requested size: 142.26378pt x 59.52788pt.
-<./Imagenes/img8.jpg, id=24, 328.97906pt x 135.50626pt>
+ <./Imagenes/imagen0102.jpg> <./Imagenes/img2.jpg> <./Imagenes/imagen0103.jpg> 
+<./Imagenes/img3.jpg> <./Imagenes/img4.jpg> <./Imagenes/imagen0105.jpg> <./Imag
+enes/img5.jpg> <./Imagenes/img6.jpg>]
+<./Imagenes/img8.jpg, id=23, 328.97906pt x 135.50626pt>
 File: ./Imagenes/img8.jpg Graphic file (type jpg)
 <use ./Imagenes/img8.jpg>
-Package pdftex.def Info: ./Imagenes/img8.jpg  used on input line 44.
+Package pdftex.def Info: ./Imagenes/img8.jpg  used on input line 41.
 (pdftex.def)             Requested size: 142.26378pt x 58.59943pt.
-<./Imagenes/img9.jpg, id=25, 403.5075pt x 185.94469pt>
+<./Imagenes/img9.jpg, id=24, 403.5075pt x 185.94469pt>
 File: ./Imagenes/img9.jpg Graphic file (type jpg)
 <use ./Imagenes/img9.jpg>
-Package pdftex.def Info: ./Imagenes/img9.jpg  used on input line 48.
+Package pdftex.def Info: ./Imagenes/img9.jpg  used on input line 45.
 (pdftex.def)             Requested size: 142.26378pt x 65.55827pt.
-<./Imagenes/img10.jpg, id=26, 581.92406pt x 208.52907pt>
+<./Imagenes/img10.jpg, id=25, 581.92406pt x 208.52907pt>
 File: ./Imagenes/img10.jpg Graphic file (type jpg)
 <use ./Imagenes/img10.jpg>
-Package pdftex.def Info: ./Imagenes/img10.jpg  used on input line 52.
+Package pdftex.def Info: ./Imagenes/img10.jpg  used on input line 49.
 (pdftex.def)             Requested size: 142.26378pt x 50.9771pt.
-<./Imagenes/img11.jpg, id=27, 484.05844pt x 180.675pt>
+<./Imagenes/img11.jpg, id=26, 484.05844pt x 180.675pt>
 File: ./Imagenes/img11.jpg Graphic file (type jpg)
 <use ./Imagenes/img11.jpg>
-Package pdftex.def Info: ./Imagenes/img11.jpg  used on input line 56.
+Package pdftex.def Info: ./Imagenes/img11.jpg  used on input line 53.
 (pdftex.def)             Requested size: 142.26378pt x 53.10016pt.
- [2 <./Imagenes/img6.jpg> <./Imagenes/img7.jpg> <./Imagenes/img8.jpg> <./Imagen
-es/img9.jpg> <./Imagenes/img10.jpg> <./Imagenes/img11.jpg>]) [3]
+ [2 <./Imagenes/img7.jpg> <./Imagenes/img8.jpg> <./Imagenes/img9.jpg> <./Imagen
+es/img10.jpg> <./Imagenes/img11.jpg>])
+[3]
 \openout2 = `Secciones/Actividad02.aux'.
 
  (Secciones/Actividad02.tex) [4
@@ -697,38 +682,78 @@ es/img9.jpg> <./Imagenes/img10.jpg> <./Imagenes/img11.jpg>]) [3]
 ]
 \openout2 = `Secciones/Actividad03.aux'.
 
+ (Secciones/Actividad03.tex
+Underfull \hbox (badness 10000) in paragraph at lines 12--14
 
-(Secciones/Actividad03.tex) [5
+ []
+
+<./Imagenes/actividad_03_05.png, id=36, 374.14781pt x 214.55156pt>
+File: ./Imagenes/actividad_03_05.png Graphic file (type png)
+<use ./Imagenes/actividad_03_05.png>
+Package pdftex.def Info: ./Imagenes/actividad_03_05.png  used on input line 16.
+
+(pdftex.def)             Requested size: 142.26378pt x 81.57954pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--21
+
+ []
+
+<./Imagenes/actividad_03_06.png, id=38, 282.30469pt x 459.21562pt>
+File: ./Imagenes/actividad_03_06.png Graphic file (type png)
+<use ./Imagenes/actividad_03_06.png>
+Package pdftex.def Info: ./Imagenes/actividad_03_06.png  used on input line 23.
+
+(pdftex.def)             Requested size: 142.26378pt x 231.41505pt.
+[5
 
 
-] (InformeLaboratorio02.aux
+ <./Imagenes/actividad_03_05.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 26--28
+
+ []
+
+<./Imagenes/actividad_03_07.png, id=44, 324.46219pt x 176.15813pt>
+File: ./Imagenes/actividad_03_07.png Graphic file (type png)
+<use ./Imagenes/actividad_03_07.png>
+Package pdftex.def Info: ./Imagenes/actividad_03_07.png  used on input line 30.
+
+(pdftex.def)             Requested size: 142.26378pt x 77.23833pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--35
+
+ []
+
+
+Overfull \hbox (209.3919pt too wide) in paragraph at lines 33--35
+\OT1/cmr/m/n/12 EXECUTE sp[]addlinkedserver Ser-ver1; GO CREA-TE SY-NONYM EMP F
+OR Ser-ver1.AdventureWorks2012.HumanResources.Employee;
+ []
+
+<./Imagenes/actividad_03_08.png, id=45, 503.63156pt x 204.01219pt>
+File: ./Imagenes/actividad_03_08.png Graphic file (type png)
+<use ./Imagenes/actividad_03_08.png>
+Package pdftex.def Info: ./Imagenes/actividad_03_08.png  used on input line 37.
+
+(pdftex.def)             Requested size: 142.26378pt x 57.62732pt.
+) [6 <./Imagenes/actividad_03_06.png> <./Imagenes/actividad_03_07.png> <./Image
+nes/actividad_03_08.png>] (InformeLaboratorio02.aux
 LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
-
-(Secciones/Actividad01.aux) (Secciones/Actividad02.aux)
-(Secciones/Actividad03.aux)) ) 
+ (Secciones/Actividad01.aux) (Secciones/Actividad02.aux) (Secciones/Actividad03
+.aux)) ) 
 Here is how much of TeX's memory you used:
- 3650 strings out of 493305
-<<<<<<< HEAD
- 47169 string characters out of 3147536
-=======
- 48399 string characters out of 3142756
->>>>>>> 71f41f3c52064b2c5838b312f1cb811ba8283610
- 126602 words of memory out of 3000000
- 7105 multiletter control sequences out of 15000+200000
- 5149 words of font info for 19 fonts, out of 3000000 for 9000
+ 3655 strings out of 493305
+ 47380 string characters out of 3147536
+ 125782 words of memory out of 3000000
+ 7113 multiletter control sequences out of 15000+200000
+ 4842 words of font info for 18 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  34i,5n,30p,456b,359s stack positions out of 5000i,500n,10000p,200000b,50000s
-<<<<<<< HEAD
-<D:/DATA/fonts/type1/public/amsfonts/cm/cmbx12.pf
-b><D:/DATA/fonts/type1/public/amsfonts/cm/cmr12.pfb>
-=======
-<D:/DATA/MiKTeX 2.9/fonts/type1/public/amsfonts/c
-m/cmbx12.pfb><D:/DATA/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb>
->>>>>>> 71f41f3c52064b2c5838b312f1cb811ba8283610
-Output written on InformeLaboratorio02.pdf (7 pages, 383866 bytes).
+<D:/DATA/fonts/type1/public/amsfonts/cm/cmbx12.pfb><D:/DATA/fonts/type1
+/public/amsfonts/cm/cmr12.pfb>
+Output written on InformeLaboratorio02.pdf (8 pages, 420817 bytes).
 PDF statistics:
- 49 PDF objects out of 1000 (max. 8388607)
+ 60 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 76 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 91 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -6,25 +6,32 @@
 pertenecen los empleados.
 	\item El departamento 50 requiere acceso a los datos de los empleados. Generar una vista llamada VW\_Dept50, que contenga las columnas ID del Empleado, Apellidos e ID del Departamento de los empleados del departamento 50. Etiquetar las columnas como EmpNo, Empleado y DeptNo. Por razones de seguridad no se debe permitir a los empleados ser reasignados a otros departamentos.
 	\item Probar la vista, tratando de reasignar al empleado Matos al departamento 80.
-	\item Se requiere crear una secuencia que será utilizada en la Llave Primaria de la tabla Departamentos (tabla creada en la práctica anterior). La secuencia deberá iniciar con el valor 200 y terminar en el valor 1000, asimismo deberá incrementarse en 10 cada vez que se requiera. Nombrar la secuencia SEQ\_Departamentos\_ID.
 
+	
+
+	\item Se requiere crear una secuencia que será utilizada en la Llave Primaria de la tabla Departamentos (tabla creada en la práctica anterior). La secuencia deberá iniciar con el valor 200 y terminar en el valor 1000, asimismo deberá incrementarse en 10 cada vez que se requiera. Nombrar la secuencia SEQ\_Departamentos\_ID.
+	\\ \\ create sequence SEQ\_Departamentos\_ID start with 200 increment by 10 maxvalue 1000 minvalue 200;	
+	
 	\begin{center}
 	\includegraphics[width=5cm]{./Imagenes/actividad_03_05} 
 	\end{center}
 
 	\item Para probar la secuencia, adicionar dos registros a la tabla Departamentos, Educación y Administración. Verificar la adición.
+	\\ \\ declare @liCodigo int select @liCodigo = next value for SEQ\_Departamentos\_ID insert into departments  values(@liCodigo,'matematica','300','3300') select * from departments
 
 	\begin{center}
 	\includegraphics[width=5cm]{./Imagenes/actividad_03_06} 
 	\end{center}
 
 	\item Crear un índice no único en la columna NOMBRE de la tabla Departamentos.
+	\\ \\CREATE INDEX Indice\_no\_unico ON departments (department\_name);
 
 	\begin{center}
 	\includegraphics[width=5cm]{./Imagenes/actividad_03_07} 
 	\end{center}	
 
 	\item Crear un sinónimo para la tabla EMPLOYEES con el nombre EMP.
+	\\ \\EXECUTE sp\_addlinkedserver Server1;  GO CREATE SYNONYM EMP FOR Server1.AdventureWorks2012.HumanResources.Employee; GO 	
 
 	\begin{center}
 	\includegraphics[width=5cm]{./Imagenes/actividad_03_08}  
