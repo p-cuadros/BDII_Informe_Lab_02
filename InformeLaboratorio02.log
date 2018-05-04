@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.4.19)  3 MAY 2018 21:11
+=======
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.4.19)  3 MAY 2018 21:14
+>>>>>>> 71f41f3c52064b2c5838b312f1cb811ba8283610
 entering extended mode
 **./InformeLaboratorio02.tex
 (InformeLaboratorio02.tex
@@ -705,14 +709,23 @@ LaTeX Info: Redefining \% on input line 6.
 (Secciones/Actividad03.aux)) ) 
 Here is how much of TeX's memory you used:
  3650 strings out of 493305
+<<<<<<< HEAD
  47169 string characters out of 3147536
+=======
+ 48399 string characters out of 3142756
+>>>>>>> 71f41f3c52064b2c5838b312f1cb811ba8283610
  126602 words of memory out of 3000000
  7105 multiletter control sequences out of 15000+200000
  5149 words of font info for 19 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  34i,5n,30p,456b,359s stack positions out of 5000i,500n,10000p,200000b,50000s
+<<<<<<< HEAD
 <D:/DATA/fonts/type1/public/amsfonts/cm/cmbx12.pf
 b><D:/DATA/fonts/type1/public/amsfonts/cm/cmr12.pfb>
+=======
+<D:/DATA/MiKTeX 2.9/fonts/type1/public/amsfonts/c
+m/cmbx12.pfb><D:/DATA/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb>
+>>>>>>> 71f41f3c52064b2c5838b312f1cb811ba8283610
 Output written on InformeLaboratorio02.pdf (7 pages, 383866 bytes).
 PDF statistics:
  49 PDF objects out of 1000 (max. 8388607)
