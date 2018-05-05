@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.5.3)  5 MAY 2018 09:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.5.3)  5 MAY 2018 10:27
 entering extended mode
 **./InformeLaboratorio02.tex
 (InformeLaboratorio02.tex
@@ -837,39 +837,60 @@ File: ./Imagenes/1ejer18.jpg Graphic file (type jpg)
 <use ./Imagenes/1ejer18.jpg>
 Package pdftex.def Info: ./Imagenes/1ejer18.jpg  used on input line 135.
 (pdftex.def)             Requested size: 284.52756pt x 84.8189pt.
-<./Imagenes/1ejer19.jpg, id=43, 634.62094pt x 237.88875pt>
-File: ./Imagenes/1ejer19.jpg Graphic file (type jpg)
-<use ./Imagenes/1ejer19.jpg>
-Package pdftex.def Info: ./Imagenes/1ejer19.jpg  used on input line 144.
-(pdftex.def)             Requested size: 284.52756pt x 106.6569pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 138--144
+
+ []
+
 [5 <./Imagenes/1ejer14.jpg> <./Imagenes/1ejer15.jpg> <./Imagenes/1ejer16.jpg> <
 ./Imagenes/1ejer17.jpg> <./Imagenes/1ejer18.jpg>]
+<./Imagenes/1ejer19.jpg, id=47, 634.62094pt x 237.88875pt>
+File: ./Imagenes/1ejer19.jpg Graphic file (type jpg)
+<use ./Imagenes/1ejer19.jpg>
+Package pdftex.def Info: ./Imagenes/1ejer19.jpg  used on input line 145.
+(pdftex.def)             Requested size: 284.52756pt x 106.6569pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--156
+
+ []
+
 <./Imagenes/1ejer20.jpg, id=48, 636.87938pt x 185.94469pt>
 File: ./Imagenes/1ejer20.jpg Graphic file (type jpg)
 <use ./Imagenes/1ejer20.jpg>
-Package pdftex.def Info: ./Imagenes/1ejer20.jpg  used on input line 156.
+Package pdftex.def Info: ./Imagenes/1ejer20.jpg  used on input line 158.
 (pdftex.def)             Requested size: 284.52756pt x 83.06998pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--165
+
+ []
+
 <./Imagenes/1ejer21.jpg, id=49, 637.63219pt x 183.68625pt>
 File: ./Imagenes/1ejer21.jpg Graphic file (type jpg)
 <use ./Imagenes/1ejer21.jpg>
-Package pdftex.def Info: ./Imagenes/1ejer21.jpg  used on input line 164.
+Package pdftex.def Info: ./Imagenes/1ejer21.jpg  used on input line 167.
 (pdftex.def)             Requested size: 284.52756pt x 81.96573pt.
-<./Imagenes/1ejer22.jpg, id=50, 638.385pt x 451.6875pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 170--177
+
+ []
+
+[6 <./Imagenes/1ejer19.jpg> <./Imagenes/1ejer20.jpg> <./Imagenes/1ejer21.jpg>]
+<./Imagenes/1ejer22.jpg, id=53, 638.385pt x 451.6875pt>
 File: ./Imagenes/1ejer22.jpg Graphic file (type jpg)
 <use ./Imagenes/1ejer22.jpg>
-Package pdftex.def Info: ./Imagenes/1ejer22.jpg  used on input line 175.
+Package pdftex.def Info: ./Imagenes/1ejer22.jpg  used on input line 179.
 (pdftex.def)             Requested size: 284.52756pt x 201.31389pt.
- [6 <./Imagenes/1ejer19.jpg> <./Imagenes/1ejer20.jpg> <./Imagenes/1ejer21.jpg>]
 ) [7 <./Imagenes/1ejer22.jpg>]
 \openout2 = `Secciones/Actividad02.aux'.
 
-(Secciones/Actividad02.tex) [8
+ (Secciones/Actividad02.tex) [8
 
 
 ]
 \openout2 = `Secciones/Actividad03.aux'.
 
- (Secciones/Actividad03.tex
+
+(Secciones/Actividad03.tex
 <./Imagenes/actividad_03_01.png, id=60, 624.08156pt x 64.74188pt>
 File: ./Imagenes/actividad_03_01.png Graphic file (type png)
 <use ./Imagenes/actividad_03_01.png>
@@ -975,7 +996,7 @@ LaTeX Info: Redefining \% on input line 6.
 (Secciones/Actividad02.aux) (Secciones/Actividad03.aux)) ) 
 Here is how much of TeX's memory you used:
  3745 strings out of 493305
- 54004 string characters out of 3128933
+ 53884 string characters out of 3128933
  125603 words of memory out of 3000000
  7182 multiletter control sequences out of 15000+200000
  5149 words of font info for 19 fonts, out of 3000000 for 9000
@@ -985,7 +1006,7 @@ Here is how much of TeX's memory you used:
 Data/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Us
 ers/AEPIS01/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
 r12.pfb>
-Output written on InformeLaboratorio02.pdf (14 pages, 942675 bytes).
+Output written on InformeLaboratorio02.pdf (14 pages, 943068 bytes).
 PDF statistics:
  98 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
