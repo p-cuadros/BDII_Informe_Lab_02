@@ -2,8 +2,20 @@
 		
 \begin{enumerate}[1.]
 	\item El Departamento de Recursos Humanos requiere ocultar ciertos datos de la tabla EMPLOYEES, Ellos necesitan una vista llamada VW\_Empleados, que contenga los campos ID del Empleado, Nombres e ID del Departamento.
+	\\CREATE VIEW VW\_Empleados AS
+	\\SELECT employee\_id, last\_name employee, department\_id
+	\\FROM employees;
+	\\GO
+	\begin{center}
+	\includegraphics[width=5cm]{./Imagenes/actividad_03_01}
+	\end{center}
 	\item Utilizando la vista anterior crear un reporte que muestre los nombres y departamentos a los cuales
 pertenecen los empleados.
+	\\SELECT employee, department\_id
+	\\FROM VW\_Empleados;
+	\begin{center}
+	\includegraphics[width=5cm]{./Imagenes/actividad_03_02}
+	\end{center}
 	\item El departamento 50 requiere acceso a los datos de los empleados. Generar una vista llamada VW\_Dept50, que contenga las columnas ID del Empleado, Apellidos e ID del Departamento de los empleados del departamento 50. Etiquetar las columnas como EmpNo, Empleado y DeptNo. Por razones de seguridad no se debe permitir a los empleados ser reasignados a otros departamentos.
 	\\
 	\\CREATE VIEW VW\_Dept50 AS
