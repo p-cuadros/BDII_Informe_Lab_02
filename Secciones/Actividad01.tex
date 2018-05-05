@@ -122,10 +122,56 @@
 	\end{center}
 
 	\item Descartar los cambios hechos a la tabla sin descartar la última adición hecha.
-	\item Revisar nuevamente los registros de la tabla MIS\_EMPLEADOS.
-	\item Confirmar todos los cambios hechos a la tabla MIS\_EMPLEADOS.
-	\item Modificar el script del punto 4.4. a fin de que se genere automáticamente el CODIGO del empleado que lo conforman la primera letra de su nombre y la primera palabra de su apellido.
-	\item Adicionar el siguiente registro a la tabla a fin de corroborar el funcionamiento del script anterior
-	\item Revisar los cambios realizados. Y finalmente confirmar todos los cambios hechos a la tabla MIS\_EMPLEADOS.
+          \\
+	\\rollback tran p1;
+	\begin{center}
+	\includegraphics[width=10cm]{./Imagenes/1ejer17} 
+	\end{center}
 
+	\item Revisar nuevamente los registros de la tabla MIS\_EMPLEADOS.
+          \\
+	\\select * from mis\_empleados
+	\begin{center}
+	\includegraphics[width=10cm]{./Imagenes/1ejer18} 
+	\end{center}
+
+	\item Confirmar todos los cambios hechos a la tabla MIS\_EMPLEADOS.
+          \\select [Begin Time],[RowLog Contents 1],[Transaction Name],Operation 
+          \\from sys.fn\_dblog(NULL,NULL)
+          \\where AllocUnitName='dbo.mis\_empleados' and Operation IN ('LOP\_DELETE\_ROWS')
+          \\go
+	\begin{center}
+	\includegraphics[width=10cm]{./Imagenes/1ejer19} 
+	\end{center}
+
+	\item Modificar el script del punto 4.4. a fin de que se genere automáticamente el CODIGO del empleado que lo conforman la primera letra de su nombre y la primera palabra de su apellido.
+          \\ alter proc insertar\_datos @id int, @ape varchar(25), @nom varchar(25), @sal decimal(9,2)
+          \\as
+          \\declare @cod varchar(10);
+          \\set @cod = LEFT(@nom,1) + @ape; 
+          \\insert into mis\_empleados values (@id,@ape,@nom,@cod,@sal);
+          \\go
+
+	\begin{center}
+	\includegraphics[width=10cm]{./Imagenes/1ejer20} 
+	\end{center}
+
+	\item Adicionar el siguiente registro a la tabla a fin de corroborar el funcionamiento del script anterior
+           \\exec insertar\_datos 7,'Valdivia Pérez','Graciela',1800;
+           \\go
+
+	\begin{center}
+	\includegraphics[width=10cm]{./Imagenes/1ejer21} 
+	\end{center}
+
+	\item Revisar los cambios realizados. Y finalmente confirmar todos los cambios hechos a la tabla MIS\_EMPLEADOS.
+          \\select * from mis\_empleados
+          \\select [Current LSN],[Transaction ID],[RowLog Contents 0],Operation 
+          \\from sys.fn\_dblog(NULL,NULL) 
+          \\where AllocUnitName='dbo.mis\_empleados' and Operation IN ('LOP\_INSERT\_ROWS')
+          \\go
+
+	\begin{center}
+	\includegraphics[width=10cm]{./Imagenes/1ejer22} 
+	\end{center}
 \end{enumerate} 
