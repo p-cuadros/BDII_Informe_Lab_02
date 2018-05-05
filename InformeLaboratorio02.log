@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.5.3)  5 MAY 2018 09:11
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.5.3)  5 MAY 2018 09:34
 entering extended mode
 **./InformeLaboratorio02.tex
 (InformeLaboratorio02.tex
@@ -883,7 +883,12 @@ Package pdftex.def Info: ./Imagenes/actividad_03_02.png  used on input line 17.
 
 (pdftex.def)             Requested size: 142.26378pt x 288.49957pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 19--26
+Underfull \hbox (badness 10000) in paragraph at lines 20--28
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--28
 
  []
 
@@ -894,90 +899,95 @@ Underfull \hbox (badness 10000) in paragraph at lines 19--26
 <./Imagenes/ejercicio3-3.png, id=68, 172.39406pt x 298.11375pt>
 File: ./Imagenes/ejercicio3-3.png Graphic file (type png)
 <use ./Imagenes/ejercicio3-3.png>
-Package pdftex.def Info: ./Imagenes/ejercicio3-3.png  used on input line 27.
+Package pdftex.def Info: ./Imagenes/ejercicio3-3.png  used on input line 29.
 (pdftex.def)             Requested size: 142.26378pt x 246.01056pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 29--34
+Underfull \hbox (badness 10000) in paragraph at lines 32--38
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--38
 
  []
 
 <./Imagenes/ejercicio3-4.png, id=69, 204.01219pt x 124.21407pt>
 File: ./Imagenes/ejercicio3-4.png Graphic file (type png)
 <use ./Imagenes/ejercicio3-4.png>
-Package pdftex.def Info: ./Imagenes/ejercicio3-4.png  used on input line 35.
+Package pdftex.def Info: ./Imagenes/ejercicio3-4.png  used on input line 39.
 (pdftex.def)             Requested size: 142.26378pt x 86.62134pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 40--42
+Underfull \hbox (badness 10000) in paragraph at lines 44--46
 
  []
 
 <./Imagenes/actividad_03_05.png, id=70, 374.14781pt x 214.55156pt>
 File: ./Imagenes/actividad_03_05.png Graphic file (type png)
 <use ./Imagenes/actividad_03_05.png>
-Package pdftex.def Info: ./Imagenes/actividad_03_05.png  used on input line 44.
+Package pdftex.def Info: ./Imagenes/actividad_03_05.png  used on input line 48.
 
 (pdftex.def)             Requested size: 142.26378pt x 81.57954pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 47--49
+[10 <./Imagenes/ejercicio3-3.png> <./Imagenes/ejercicio3-4.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 51--53
 
  []
 
-[10 <./Imagenes/ejercicio3-3.png> <./Imagenes/ejercicio3-4.png> <./Imagenes/act
-ividad_03_05.png>]
-<./Imagenes/actividad_03_06.png, id=77, 282.30469pt x 459.21562pt>
+<./Imagenes/actividad_03_06.png, id=76, 282.30469pt x 459.21562pt>
 File: ./Imagenes/actividad_03_06.png Graphic file (type png)
 <use ./Imagenes/actividad_03_06.png>
-Package pdftex.def Info: ./Imagenes/actividad_03_06.png  used on input line 51.
+Package pdftex.def Info: ./Imagenes/actividad_03_06.png  used on input line 55.
 
 (pdftex.def)             Requested size: 142.26378pt x 231.41505pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 54--56
+Underfull \hbox (badness 10000) in paragraph at lines 58--60
 
  []
 
-<./Imagenes/actividad_03_07.png, id=78, 324.46219pt x 176.15813pt>
+<./Imagenes/actividad_03_07.png, id=77, 324.46219pt x 176.15813pt>
 File: ./Imagenes/actividad_03_07.png Graphic file (type png)
 <use ./Imagenes/actividad_03_07.png>
-Package pdftex.def Info: ./Imagenes/actividad_03_07.png  used on input line 58.
+Package pdftex.def Info: ./Imagenes/actividad_03_07.png  used on input line 62.
 
 (pdftex.def)             Requested size: 142.26378pt x 77.23833pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 61--63
+Underfull \hbox (badness 10000) in paragraph at lines 65--67
 
  []
 
 
-Overfull \hbox (209.3919pt too wide) in paragraph at lines 61--63
+Overfull \hbox (209.3919pt too wide) in paragraph at lines 65--67
 \OT1/cmr/m/n/12 EXECUTE sp[]addlinkedserver Ser-ver1; GO CREA-TE SY-NONYM EMP F
 OR Ser-ver1.AdventureWorks2012.HumanResources.Employee;
  []
 
-<./Imagenes/actividad_03_08.png, id=79, 503.63156pt x 204.01219pt>
+<./Imagenes/actividad_03_08.png, id=78, 503.63156pt x 204.01219pt>
 File: ./Imagenes/actividad_03_08.png Graphic file (type png)
 <use ./Imagenes/actividad_03_08.png>
-Package pdftex.def Info: ./Imagenes/actividad_03_08.png  used on input line 65.
+Package pdftex.def Info: ./Imagenes/actividad_03_08.png  used on input line 69.
 
 (pdftex.def)             Requested size: 142.26378pt x 57.62732pt.
-) [11 <./Imagenes/actividad_03_06.png> <./Imagenes/actividad_03_07.png> <./Imag
-enes/actividad_03_08.png>] (InformeLaboratorio02.aux
+[11 <./Imagenes/actividad_03_05.png> <./Imagenes/actividad_03_06.png> <./Imagen
+es/actividad_03_07.png>]) [12 <./Imagenes/actividad_03_08.png>]
+(InformeLaboratorio02.aux
 LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
- (Secciones/Actividad01.aux) (Secciones/Actividad02.aux) (Secciones/Actividad03
-.aux)) ) 
+ (Secciones/Actividad01.aux)
+(Secciones/Actividad02.aux) (Secciones/Actividad03.aux)) ) 
 Here is how much of TeX's memory you used:
  3745 strings out of 493305
- 53929 string characters out of 3128933
- 125602 words of memory out of 3000000
+ 54004 string characters out of 3128933
+ 125603 words of memory out of 3000000
  7182 multiletter control sequences out of 15000+200000
  5149 words of font info for 19 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  34i,5n,30p,456b,359s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Users/AEPIS01/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/
-amsfonts/cm/cmbx12.pfb><C:/Users/AEPIS01/AppData/Local/Programs/MiKTeX 2.9/font
-s/type1/public/amsfonts/cm/cmr12.pfb>
-Output written on InformeLaboratorio02.pdf (13 pages, 942271 bytes).
+<C:/Users/AEPIS01/App
+Data/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Us
+ers/AEPIS01/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
+r12.pfb>
+Output written on InformeLaboratorio02.pdf (14 pages, 942675 bytes).
 PDF statistics:
- 95 PDF objects out of 1000 (max. 8388607)
+ 98 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  166 words of extra memory for PDF output out of 10000 (max. 10000000)
 
